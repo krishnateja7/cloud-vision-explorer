@@ -1,0 +1,5 @@
+module.exports = {
+  gcsBucketName: 'your-gcs-bucket-name',
+  gcsDatapointPath: 'datapoint/output.json',
+  gcsGoogleStaticMapsApiKey: 'YOUR_KEY'
+}
